@@ -1,4 +1,4 @@
 # samrat-personal
 this is my first git repo
 
-name.samrat
+made by samrat rai
